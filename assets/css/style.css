@@ -123,6 +123,10 @@ a {
     text-align: left;
   }
 
+  .article__title {
+    font-size: 2.5rem;
+  }
+
   .article__link {
     margin-left: 0;
     margin-right: 0;
